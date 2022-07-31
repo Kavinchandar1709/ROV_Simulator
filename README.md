@@ -4,4 +4,3 @@ This project is all about creating a stimulation for a underwater vehicle with s
 
 <p align="center">
   <img src="https://github.com/Kavinchandar1709/ROV_Stimulator/blob/main/ROV%20OUTPUT%203.png" width="400" height="200"/>
-  <img src="https://github.com/Kavinchandar1709/ROV_Stimulator/blob/main/ROV%20OUTPUT%201.png" width="400" height="200"/>
